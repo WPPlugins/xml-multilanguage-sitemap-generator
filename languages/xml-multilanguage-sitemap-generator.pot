@@ -1,0 +1,127 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-11 12:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: option.php:49
+msgid "Create a different sitemap for each post type. "
+msgstr ""
+
+#: option.php:57
+msgid ""
+"Insert the name of the sitemap. Use a unique name. Default name: "
+"xml_mg_sitemap. "
+msgstr ""
+
+#: option.php:65
+msgid "Check the post type you WANT to set in your sitemap."
+msgstr ""
+
+#: option.php:73
+msgid "Check the posts you DON'T WANT to set in your sitemap."
+msgstr ""
+
+#: option.php:168 option.php:206
+msgid "Visible in sitemap"
+msgstr ""
+
+#: option.php:169 option.php:207
+msgid "Post type name"
+msgstr ""
+
+#: option.php:170 option.php:208
+msgid "General Priority"
+msgstr ""
+
+#: option.php:171 option.php:209
+msgid "General Changefreq"
+msgstr ""
+
+#: option.php:195
+msgid "Create the Sitemap"
+msgstr ""
+
+#: option.php:276
+msgid "Not visible"
+msgstr ""
+
+#: option.php:277
+msgid "ID"
+msgstr ""
+
+#: option.php:278
+msgid "Title"
+msgstr ""
+
+#: option.php:279
+msgid "Priority"
+msgstr ""
+
+#: option.php:280
+msgid "Changefreq"
+msgstr ""
+
+#: option.php:381
+msgid ""
+"Helps me to improve the plugin, add new functions and improve the support!"
+"<br> Feel free to donate how much you want or leave a review! <br>"
+msgstr ""
+
+#: option.php:384
+msgid "Documentation"
+msgstr ""
+
+#: option.php:385
+msgid "Contact me"
+msgstr ""
+
+#: option.php:386
+msgid "Supports topic"
+msgstr ""
+
+#: option.php:397
+msgid ""
+"<h4>Welcome to the configuration panel of <b>XML MULTILANGUAGE SITEMAP "
+"GENERATOR</b>.</h4> <br> For more information see <a href=\"https:"
+"//wordpress.org/plugins/xml-multilanguage-sitemap-generator/\" "
+"target=\"_blank\">the wordpress plugin directory page.</a>\n"
+"        <br><br> If you need support <a href=\"https://wordpress."
+"org/support/plugin/xml-multilanguage-sitemap-generator\" target=\"_blank\">"
+"check the support page of the plugin!</a>\n"
+"        <br><br> If you want to suggest me something new, <a href=\"mailto:"
+"info@marcogiannini.net\">send me a mail</a>"
+msgstr ""
+
+#. Name of the plugin
+#: option.php:409
+msgid "XML Multilanguage Sitemap Generator"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create a wonderful sitemap in the root of the website with all the "
+"alternative languages too, if available."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/xml-multilanguage-sitemap-generator"
+msgstr ""
+
+#. Author of the plugin
+msgid "Marco Giannini"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://marcogiannini.net"
+msgstr ""
